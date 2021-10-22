@@ -1,0 +1,7 @@
+These files have been cleaned (remvoal of some redundent trailng spaces) checked for virsues (MS Defender ATP 
+v 101.34.28) and resaved as UTF-8, with CRLF for line endings, using Textmate 2.019 (macOS 11.5).
+
+Two IMS files were also added from the now deprecated jcamp-dx.org website.
+Data in 'DX-DIR.TXT' was not updated do to the resaving of the files.
+
+Stuart Chalk August 2nd, 2021
