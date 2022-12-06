@@ -11,4 +11,4 @@ JCAMP-DX is the IUPAC standard format family for spectral data exchange. IUPAC a
 
 ## Software
 * [JSmol/JSpecView](https://sourceforge.net/projects/jmol/)
-
+* [jcamp](https://github.com/nzhagen/jcamp/): Python library for parsing JCAMP-DX files
