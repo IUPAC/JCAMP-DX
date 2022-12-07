@@ -9,7 +9,8 @@ have been proposed for existing formats and new standards to cover techniques no
 https://iupac.org/what-we-do/digital-standards/JCAMP-DX. 
 
 ## Sources of JCAMP-DX Files
-* [Original IUPAC JCAMP-DX test files set](https://github.com/IUPAC/JCAMP-DX/blob/main/testdata.zip)
+* Original IUPAC JCAMP-DX test files set as a [zip](https://github.com/IUPAC/JCAMP-DX/blob/main/jcamp-dx.org_test_data.zip)
+ or [directory](https://github.com/IUPAC/JCAMP-DX/tree/main/jcamp-dx.org_test_data)
 * [Robert Lancashire's Repository of JCAMP-DX files](http://wwwchem.uwimona.edu.jm/spectra/index.html) 
 
 ## JCAMP Tools
