@@ -16,4 +16,4 @@ https://iupac.org/what-we-do/digital-standards/JCAMP-DX.
 ## JCAMP Tools
 These tools (provided here for convenience) have not been reviewed by IUPAC nor are they endorsed by IUPAC.
 * [JSmol/JSpecView](https://sourceforge.net/projects/jmol/)
-
+* [jcamp](https://github.com/nzhagen/jcamp/): Python library for parsing JCAMP-DX files
