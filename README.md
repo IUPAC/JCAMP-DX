@@ -6,7 +6,8 @@ range of scientific standards from the Joint Committee on Atomic and Molecular P
 development of JCAMP-DX was halted in 2006 with the prospect of an XML replacement but this did not eventuate. 
 Continued usage of the specification has made it a de facto standard for exchange of spectral data and some updates 
 have been proposed for existing formats and new standards to cover techniques not yet covered. More information at
-https://iupac.org/what-we-do/digital-standards/JCAMP-DX. 
+https://iupac.org/what-we-do/digital-standards/JCAMP-DX. The content in this site represents archival material from 
+the project and other initiatives. The data is provided with the approval of the original owners.
 
 ## Sources of JCAMP-DX Files
 * Original IUPAC JCAMP-DX test files set as a [zip](https://github.com/IUPAC/JCAMP-DX/blob/main/jcamp-dx.org_test_data.zip)
